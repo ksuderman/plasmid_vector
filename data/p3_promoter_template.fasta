@@ -1,0 +1,11 @@
+# P3 promoter from S. aureus (weak promoter to be improved)
+# Replace with your actual P3 sequence
+
+>P3_S_aureus_weak_promoter
+YOUR_P3_PROMOTER_SEQUENCE_HERE
+
+# Notes about P3 promoter:
+# - This is your baseline weak promoter
+# - You want to modify its -10 and -35 regions
+# - The analysis will compare this with strong C. acnes promoters
+# - Goal: design mutations to increase strength

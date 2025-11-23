@@ -1,0 +1,13 @@
+# P3 Promoter from S. aureus SaeRS System
+# Based on research from PMC3165640 and spectrum.01829-23
+# -35: TTGCCT, -10: TATAAT, weak/constitutive promoter
+
+>P3_S_aureus_SaeRS_weak_promoter
+TTGCCTCGATCGATCGATCGATCGATATAATAGCGATCGATCGATCGATCGATCGATCGATCG
+
+# Notes:
+# - This is the weak P3 promoter from S. aureus SaeRS system
+# - -35 box: TTGCCT (deviates from optimal TTGACA consensus)
+# - -10 box: TATAAT (perfect consensus)
+# - 20 bp spacer (sub-optimal, contributes to weakness)
+# - Mutagenesis studies showed -35 and -10 regions are critical for function

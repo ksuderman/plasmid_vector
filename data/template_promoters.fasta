@@ -1,0 +1,17 @@
+# Example FASTA file format for C. acnes promoters
+# Replace these example sequences with your actual promoter sequences
+# Promoter sequences should be ~50-200 bp upstream of start codon
+# Include -35 and -10 boxes with some flanking regions
+
+>Example_Strong_Promoter_1
+TTGACAGATCGATCGATCGATCGATCGATATAATAGCGATCGATCGATCGATCGATCGATCGATCGATCGATC
+
+>Example_Strong_Promoter_2
+TTGAAAGATCGATCGATCGATCGATCGATATAATAGCGATCGATCGATCGATCGATCGATCGATCGATCGATC
+
+>Example_Medium_Promoter_3
+TTGACAGATCGATCGATCGATCGATCGATATAATCGCGATCGATCGATCGATCGATCGATCGATCGATCGATC
+
+# Add your C. acnes promoter sequences below in the same format:
+# >Promoter_Name_Description
+# SEQUENCE_HERE
